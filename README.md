@@ -51,3 +51,7 @@ bash
 Copy code
 git clone https://github.com/echographe-ma/odoo_product_update.git
 cd odoo_product_update
+🔗 Lien vers le Site
+Ce projet est développé et maintenu par echographe.ma, spécialiste en solutions d'échographes et d'équipements médicaux.
+
+👉 Visitez notre site : https://echographe.ma/
